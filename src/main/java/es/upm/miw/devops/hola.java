@@ -4,4 +4,7 @@ public class hola {
     public void m(int m){
         //issue1
     }
+    public void b(){
+        //issue3
+    }
 }
